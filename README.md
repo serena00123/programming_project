@@ -1,5 +1,5 @@
 # programming_project
-## This repo contains simple, useful projects written in C ##
+## This repo contains simple, useful projects written in languages such as C, Python and JavaScript ##
 
 ## Table of Contents ##
 
