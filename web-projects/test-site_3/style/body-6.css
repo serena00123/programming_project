@@ -1,0 +1,14 @@
+section {
+    background-image: url("https://media.istockphoto.com/id/157330335/photo/bookshelves-at-the-library.jpg?s=612x612&w=0&k=20&c=1-dqfsRBtKXImZR4CWglB2aIs1G4Rn1LbnKkyfYhk1E=");
+    width: 80%;
+    height: 800px;
+    margin: 0 auto;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: top;
+}
+
+h1 {
+    font-size: 100px;
+    color: white;
+}

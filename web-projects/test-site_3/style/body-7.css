@@ -1,0 +1,17 @@
+ img {
+     width: 30%;
+     margin: 1.4%;
+     border: 2px solid white;
+ }
+
+ body {
+     background-color: rgb(59, 95, 2);
+     background-image: url();
+ }
+
+ nav {
+     color: aliceblue;
+     border-color: aliceblue;
+     border: solid;
+     background-color: rgb(59, 95, 2);
+ }

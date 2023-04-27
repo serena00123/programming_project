@@ -1,0 +1,10 @@
+header {
+    height: 70px;
+    width: 100%;
+    border-bottom: 1px solid #CCCCCC;
+    background-repeat: no-repeat;
+    background-position: 20px center;
+    flex-shrink: 0;
+    background-color: rgb(180, 164, 164);
+    color: rgb(255, 255, 255);
+}

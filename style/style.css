@@ -1,0 +1,8 @@
+p {
+	  color: green;
+  }
+
+ul#summer-drinks li.favorite {
+	  color: red;
+	  font-weight: bold;
+}
